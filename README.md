@@ -1,4 +1,4 @@
-# EX NO : 03 Develop a simple application to play and control the audio file in android studio 
+# EX NO : 04 Develop a simple application to play and control the audio file in android studio 
 
 
 ## AIM:
