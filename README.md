@@ -1,4 +1,4 @@
-# EX NO : 04 Develop a simple application to play and control the audio file in android studio 
+# EX NO : 03 Develop a simple application to play and control the audio file in android studio 
 
 
 ## AIM:
@@ -28,8 +28,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 
-DEVELOPED BY : M Hari Krishna
-REG.NO   : 212221230059.
+DEVELOPED BY : S Adithya Chowdary.
+REG.NO   : 212221230100.
 
 ```
 ### ActivityMain.xml :
